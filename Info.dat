@@ -1,0 +1,46 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "The Dance",
+  "_songSubName" : "",
+  "_songAuthorName" : "Garth Brooks",
+  "_levelAuthorName" : "Minecraftchest2",
+  "_beatsPerMinute" : 68,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0,
+  "_previewStartTime" : 12,
+  "_previewDuration" : 10,
+  "_songFilename" : "01 The Dance.ogg",
+  "_coverImageFilename" : "anthems.png",
+  "_environmentName" : "DefaultEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "_colorSchemes" : [
+  ],
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Easy",
+          "_difficultyRank" : 1,
+          "_beatmapFilename" : "EasyStandard.dat",
+          "_noteJumpMovementSpeed" : 10,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0
+        }
+      ]
+    }
+  ],
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}
